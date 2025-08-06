@@ -31,7 +31,7 @@ iOS Application (Swift + SwiftUI)
 
 ---
 
-🛠️ How to Run Locally
+## 🛠️ How to Run Locally
 
 ### 🔹 Prerequisites
 - macOS with Xcode installed (Xcode 15 or newer recommended)
