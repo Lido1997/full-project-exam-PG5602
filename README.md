@@ -44,7 +44,7 @@ git clone https://github.com/Lido1997/full-project-exam-PG5602.git
 cd full-project-exam-PG5602
 ```
 
-2. Open in Xcode
+2. **Open in Xcode**
 ```bash
 open NewsWorldwide.xcodeproj
 ```
