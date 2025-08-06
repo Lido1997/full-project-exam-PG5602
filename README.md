@@ -5,6 +5,8 @@ This project was developed as part of the exam in the course PG5602 at Kristiani
 It is a native iOS application called NewsWorldwide, where users can explore global news, filter by category, and search for articles using NewsAPI. 
 Articles are displayed with titles, descriptions, and publication dates.
 
+---
+
 ## 📁 Project Structure
 ```
 NewsWorldwide/
@@ -12,6 +14,8 @@ NewsWorldwide/
 ├── NewsWorldwide.xcodeproj # Xcode project file
 ├── .gitignore              # Git ignore file
 ```
+
+---
 
 ## 🚀 Technologies Used
 
@@ -24,6 +28,8 @@ iOS Application (Swift + SwiftUI)
 - Keychain (for secure storage of the API key)
 - API Integration
 - NewsAPI.org – Used to fetch news articles
+
+---
 
 🛠️ How to Run Locally
 
