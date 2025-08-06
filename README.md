@@ -1,4 +1,4 @@
-Full Project – Exam PG5602
+# Full Project – Exam PG5602
 
 This project was developed as part of the exam in the course PG5602 at Kristiania University College.
 
