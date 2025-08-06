@@ -1,6 +1,6 @@
 # Full Project – Exam PG5602
 
-This project was developed as part of the exam in the course PG5602 at Kristiania University College.
+This project was developed as part of the exam in the course **PG5602** at Kristiania University College.
 
 It is a native iOS application called NewsWorldwide, where users can explore global news, filter by category, and search for articles using NewsAPI. 
 Articles are displayed with titles, descriptions, and publication dates.
@@ -55,4 +55,4 @@ open NewsWorldwide.xcodeproj
 
 4. Run the app
 - Select a simulator or a connected device.
-- Press Cmd + R or click Run in Xcode.
+- Press **Cmd + R** or click Run in Xcode.
